@@ -31,22 +31,22 @@
     <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-03-18T15:08:56.000</Modified>
+      <Modified>2012-09-08T09:59:45.682</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-03-18T15:08:56.000</Modified>
+      <Modified>2012-09-08T10:10:17.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-03-18T15:08:56.000</Modified>
+      <Modified>2012-09-08T09:53:02.104</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-03-18T15:08:56.000</Modified>
+      <Modified>2012-09-08T10:08:38.144</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\Assets\LightGray.png">
       <PackagePath>Assets\LightGray.png</PackagePath>
