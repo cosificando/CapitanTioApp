@@ -1,0 +1,10 @@
+C:\Users\RubenPalma\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Data\bin\Debug\CapitanTioApp.Data.dll
+C:\Users\RubenPalma\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Data\bin\Debug\CapitanTioApp.Data.pdb
+C:\Users\RubenPalma\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Data\bin\Debug\CapitanTioApp.Data.pri
+C:\Users\RubenPalma\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Data\obj\Debug\CapitanTioApp.Data.dll
+C:\Users\RubenPalma\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Data\obj\Debug\CapitanTioApp.Data.pdb
+C:\Users\RubenPalma\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Data\obj\Debug\priconfig.xml
+C:\Users\RubenPalma\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Data\obj\Debug\layout.resfiles
+C:\Users\RubenPalma\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Data\obj\Debug\resources.resfiles
+C:\Users\RubenPalma\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Data\obj\Debug\pri.resfiles
+C:\Users\RubenPalma\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Data\obj\Debug\LanguageQualifiers.txt

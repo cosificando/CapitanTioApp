@@ -5,17 +5,17 @@ using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CapitanTioApp.DataModel
+namespace CapitanTioApp.Data.DataModel
 {
     [DataContract]
     public class clsTwitterJson
     {
         [DataMember]
-        public List<resultObject> results { get; set; }
+        public List<Tweet> results { get; set; }
     }
 
     [DataContract]
-    public class resultObject
+    public class Tweet
     {
         [DataMember]
         public string from_user { get; set; }
