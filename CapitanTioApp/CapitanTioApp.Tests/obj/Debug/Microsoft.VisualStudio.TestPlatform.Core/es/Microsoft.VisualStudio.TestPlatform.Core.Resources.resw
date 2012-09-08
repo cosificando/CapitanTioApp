@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MissingOperand" xml:space="preserve">
+    <value>Error: falta un operando</value>
+  </data>
+  <data name="CannotAcceptTestResultWhenTestIsCanceled" xml:space="preserve">
+    <value>No se pueden aceptar los resultados de las pruebas porque se ha cancelado la ejecución de las pruebas.</value>
+  </data>
+  <data name="ServiceSecurityUserNotAllowed" xml:space="preserve">
+    <value>No está autorizado para realizar esta operación.</value>
+  </data>
+  <data name="DuplicateExtensionUri" xml:space="preserve">
+    <value>URI de extensión de pruebas '{0}' duplicado. Se va a omitir la extensión duplicada.</value>
+  </data>
+  <data name="EmptyParenthsis" xml:space="preserve">
+    <value>Error: paréntesis vacío ( )</value>
+  </data>
+  <data name="DuplicateSettingsName" xml:space="preserve">
+    <value>El proveedor de configuración denominado '{0}' está duplicado. Se va a omitir el proveedor duplicado.</value>
+  </data>
+  <data name="RunSettingsAlreadyLoaded" xml:space="preserve">
+    <value>Los parámetros de ejecución ya se han cargado.</value>
+  </data>
+  <data name="LoggerNotFound" xml:space="preserve">
+    <value>No se encuentra ningún registrador de pruebas con URI o FriendlyName '{0}'.</value>
+  </data>
+  <data name="DiscovererInstantiationException" xml:space="preserve">
+    <value>Se produjo una excepción al crear una instancia del programa de detección: {0}</value>
+  </data>
+  <data name="ErrorHandlerEventMessage" xml:space="preserve">
+    <value>Excepción del controlador de errores: {0} \r\n {1}</value>
+  </data>
+  <data name="DuplicateSource" xml:space="preserve">
+    <value>Omitiendo el origen duplicado especificado '{0}'.</value>
+  </data>
+  <data name="TestRunFailed_NoTestsAreAvailableInTheSources" xml:space="preserve">
+    <value>No hay ninguna prueba disponible en {0}. Asegúrese de que la configuración de detectores y ejecutores de pruebas, plataforma y versión de .NET Framework es correcta e inténtelo de nuevo.</value>
+  </data>
+  <data name="LoggerInitializationError" xml:space="preserve">
+    <value>Se produjo una excepción al inicializar el registrador con el URI '{0}'. No se usará el registrador. Excepción: {1}</value>
+  </data>
+  <data name="NumberOfTestCasesCannotBeLessThanOne" xml:space="preserve">
+    <value>Debe haber al menos una prueba que recuperar.</value>
+  </data>
+  <data name="ExceptionFromRunTests" xml:space="preserve">
+    <value>Se produjo una excepción al llamar al programa de ejecución '{0}': {1}</value>
+  </data>
+  <data name="EnableShutdownAfterTestRunWhenKeepAliveIsFalse" xml:space="preserve">
+    <value>EnableShutdownAfterTestRun no se puede habilitar si KeepAlive es false.</value>
+  </data>
+  <data name="DuplicateSettingsProvided" xml:space="preserve">
+    <value>Se encontró una sección de parámetros de ejecución denominada '{0}' duplicada. Se van a omitir los parámetros duplicados.</value>
+  </data>
+  <data name="DataCollectionMessageFormat" xml:space="preserve">
+    <value>Mensaje del adaptador de datos de diagnóstico: {0}</value>
+  </data>
+  <data name="QueueAlreadyDisposed" xml:space="preserve">
+    <value>La cola de {0} ya se ha desechado.</value>
+  </data>
+  <data name="WeakEventsOnlyInstanceMethodsSupportedExceptionText" xml:space="preserve">
+    <value>Un método de prueba debe ser un método de instancia.</value>
+  </data>
+  <data name="AppxManifestReadError" xml:space="preserve">
+    <value>No se pudo leer el archivo de manifiesto. Error: {0}</value>
+  </data>
+  <data name="MissingCloseParenthesis" xml:space="preserve">
+    <value>Error: falta ')'</value>
+  </data>
+  <data name="DataCollectorMessageFormat" xml:space="preserve">
+    <value>Mensaje de adaptador de datos de diagnóstico ('{0}'): {1}.</value>
+  </data>
+  <data name="StringSeperator" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="EnableShutdownAfterTestRunBeingSetToFalse" xml:space="preserve">
+    <value>EnableShutdownAfterTestRun no se puede deshabilitar en una serie de pruebas. La siguiente serie de pruebas se iniciará con el estado deshabilitado.</value>
+  </data>
+  <data name="UnsupportedPropertiesInTestCaseFilter" xml:space="preserve">
+    <value>Ninguna prueba coincidió con el filtro, ya que contiene una o varias propiedades no válidas ({0}). Especifique una expresión de filtro que contenga propiedades válidas ({1}) e inténtelo de nuevo.</value>
+  </data>
+  <data name="InvalidExtensionUriFormat" xml:space="preserve">
+    <value>La extensión de pruebas tiene un URI '{0}' no válido: {1}</value>
+  </data>
+  <data name="InvalidOperator" xml:space="preserve">
+    <value>Error: operador no válido '{0}'</value>
+  </data>
+  <data name="MissingOpenParenthesis" xml:space="preserve">
+    <value>Error: falta '('</value>
+  </data>
+  <data name="LaunchDebugProcessNotAllowedForANonDebugRun" xml:space="preserve">
+    <value>No se permite esta operación en el contexto de ejecución sin depuración.</value>
+  </data>
+  <data name="ExceptionFromJobProcessor" xml:space="preserve">
+    <value>Se produjo una excepción no controlada al procesar un trabajo de la cola de '{0}': {1}</value>
+  </data>
+  <data name="IgnoringExecutorAsNoDefaultExecutorUriAttribute" xml:space="preserve">
+    <value>Se omitirá el ejecutor de pruebas correspondiente al detector de pruebas {0} porque el detector no tiene el atributo DefaultExecutorUri. Puede ser necesario reinstalar el complemento de adaptador de pruebas.</value>
+  </data>
+  <data name="FailedToFindInstalledUnitTestExtensions" xml:space="preserve">
+    <value>No se encuentra la lista de extensiones de pruebas unitarias instaladas. Motivo: {0}</value>
+  </data>
+  <data name="DiscoveryAbortNotSupportedInProc" xml:space="preserve">
+    <value>Solo puede anular una solicitud de detección de pruebas durante una ejecución /InIsolation.</value>
+  </data>
+  <data name="StartIndexShouldBeNonNegative" xml:space="preserve">
+    <value>El índice inicial desde el que se recuperan los casos de prueba debe ser no negativo.</value>
+  </data>
+  <data name="SettingsNodeInvalidName" xml:space="preserve">
+    <value>Se especificó un nodo de configuración no válido. La propiedad de nombre del nodo de configuración no debe estar vacía.</value>
+  </data>
+  <data name="SettingsProviderInitializationError" xml:space="preserve">
+    <value>Error al iniciar el proveedor de configuración denominado '{0}'. Error: {1}</value>
+  </data>
+  <data name="TestCaseFilterFormatException" xml:space="preserve">
+    <value>Formato incorrecto para TestCaseFilter {0}. Especifique el formato correcto e inténtelo de nuevo. Tenga en cuenta que el formato incorrecto puede dar lugar a que no se ejecute ninguna prueba.</value>
+  </data>
+  <data name="NoDiscovererRegistered" xml:space="preserve">
+    <value>No se registró ningún programa de detección de pruebas para la detección de casos de pruebas. Registre el programa de detección de pruebas y vuelva a intentarlo.</value>
+  </data>
+  <data name="InvalidCondition" xml:space="preserve">
+    <value>Error: condición no válida '{0}'</value>
+  </data>
+  <data name="AppxRegistrationFailure" xml:space="preserve">
+    <value>No se pudo iniciar el proceso del programa de ejecución de pruebas '{0}'. Error del registro del paquete {1} con el código: 0x{2:X} y el mensaje de error: {3}.\nPara obtener información detallada, examine el visor de eventos en Registros de aplicaciones y servicios -&gt; Microsoft -&gt; Windows -&gt; AppXDeployment-Server -&gt; Microsoft-Windows-AppXDeploymentServer/Operational.</value>
+  </data>
+  <data name="RunSettingsParseError" xml:space="preserve">
+    <value>Error al cargar los parámetros de ejecución: {0}</value>
+  </data>
+  <data name="QueuePausedDisposeError" xml:space="preserve">
+    <value>La cola de {0} no se puede desechar mientras se encuentra en pausa.</value>
+  </data>
+  <data name="MissingOperator" xml:space="preserve">
+    <value>Falta el operador '|' o '&amp;'</value>
+  </data>
+  <data name="NoMatchingExecutor" xml:space="preserve">
+    <value>No se encontró el programa de ejecución de pruebas con el URI '{0}'. Asegúrese de que dicho programa está instalado y admite la versión {1} del runtime de .NET Framework.</value>
+  </data>
+  <data name="TestLoggerQueueName" xml:space="preserve">
+    <value>Registrador de pruebas</value>
+  </data>
+  <data name="CollectionEmpty" xml:space="preserve">
+    <value>Debe haber al menos una entrada en la colección: {0}</value>
+  </data>
+  <data name="NoDiscoveryRequest" xml:space="preserve">
+    <value>No se encontró ninguna prueba porque no se realizó ninguna solicitud de detección. Ejecute una solicitud de detección y vuelva a intentarlo.</value>
+  </data>
+  <data name="AnotherDiscoveryRequestInProgress" xml:space="preserve">
+    <value>Ya hay una solicitud de detección en curso. Solo se admite una solicitud de detección activa.</value>
+  </data>
+  <data name="NoValidSourceFoundForDiscovery" xml:space="preserve">
+    <value>Ninguno de los orígenes especificados '{0}' es válido. Corrija estos errores o advertencias e inténtelo de nuevo. </value>
+  </data>
+  <data name="ExceptionFromLoadTests" xml:space="preserve">
+    <value>Se produjo una excepción mientras el programa de detección de pruebas '{0}' cargaba las pruebas. Excepción: {1}</value>
+  </data>
+  <data name="SettingsProviderNotFound" xml:space="preserve">
+    <value>No se encontró el proveedor de configuración denominado '{0}'. No se pudo cargar la configuración.</value>
+  </data>
+  <data name="InvalidRunSettingsRootNode" xml:space="preserve">
+    <value>El nodo raíz de los parámetros de ejecución se debe denominar 'RunSettings'.</value>
+  </data>
+  <data name="NoDiscovererRegisteredForTestSource" xml:space="preserve">
+    <value>No se registró ningún programa de detección de pruebas para la detección del tipo de origen de pruebas '{0}'. Registre un programa de detección de pruebas para este tipo de origen y vuelva a intentarlo.</value>
+  </data>
+  <data name="NoTestsFoundInContainer" xml:space="preserve">
+    <value>No se detectó ninguna prueba del contenedor '{0}'.</value>
+  </data>
+</root>

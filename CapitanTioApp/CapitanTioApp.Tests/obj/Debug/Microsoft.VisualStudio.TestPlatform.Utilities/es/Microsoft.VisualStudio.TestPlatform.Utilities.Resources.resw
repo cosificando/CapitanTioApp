@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LUADisabledError" xml:space="preserve">
+    <value>No se pueden ejecutar pruebas unitarias para aplicaciones de la Tienda Windows con la opción Cuenta de usuario limitada deshabilitada. Habilítela para ejecutar las pruebas.</value>
+  </data>
+  <data name="SourceInCompatibleNoFramework" xml:space="preserve">
+    <value>{0} está compilado para la plataforma {1}.</value>
+  </data>
+  <data name="PrerequisiteValidDevLicense" xml:space="preserve">
+    <value>No se encontró ninguna licencia de desarrollador válida para ejecutar pruebas unitarias para aplicaciones de la Tienda Windows. Instale o renueve la licencia de desarrollador.</value>
+  </data>
+  <data name="SourcesInCompatible" xml:space="preserve">
+    <value>{0} están compilados para .NET Framework {1} y la plataforma {2}.</value>
+  </data>
+  <data name="UIThreadNotFound" xml:space="preserve">
+    <value>No se encuentra el subproceso de interfaz de usuario para ejecutar pruebas unitarias para aplicaciones de la Tienda Windows.</value>
+  </data>
+  <data name="FailedToActivateWindowsStoreAppExecutor" xml:space="preserve">
+    <value>No se pudo activar el ejecutor de pruebas unitarias de aplicaciones de la Tienda Windows. Error: {0}.</value>
+  </data>
+  <data name="MissingRunSettingsNode" xml:space="preserve">
+    <value>No se encuentra el nodo 'RunSettings'.</value>
+  </data>
+  <data name="BuiltInAdministratorError" xml:space="preserve">
+    <value>Las pruebas unitarias para aplicaciones de la Tienda Windows no se pueden ejecutar con las cuentas de usuario BUILTIN\administrator o {0}. Ejecute las pruebas con una cuenta de usuario con la que se puedan iniciar procesos con un nivel de privilegios medio y bajo.</value>
+  </data>
+  <data name="AppxManifestReadError" xml:space="preserve">
+    <value>No se pudo leer el archivo de manifiesto. Error: {0}</value>
+  </data>
+  <data name="AppContainerActivationFailureWithoutErrorCode" xml:space="preserve">
+    <value>Error interno al iniciar el ejecutor de pruebas para aplicaciones de la Tienda Windows.</value>
+  </data>
+  <data name="AppContainerActivationFailure" xml:space="preserve">
+    <value>No se pudo iniciar el ejecutor de pruebas para aplicaciones de la Tienda Windows. Código de error: {0}.</value>
+  </data>
+  <data name="SourceIncompatible" xml:space="preserve">
+    <value>{0} está compilado para .NET Framework {1} y la plataforma {2}.</value>
+  </data>
+  <data name="SystemArchitectureIncompatibleWithTargetPlatform" xml:space="preserve">
+    <value>Configuración de plataforma de destino '{0}' incompatible con la arquitectura '{1}'.</value>
+  </data>
+  <data name="PackageInstallationTimeout" xml:space="preserve">
+    <value>Se agotó el tiempo de espera de la operación. No se pudo instalar el paquete de aplicación Windows en {0} segundos.</value>
+  </data>
+  <data name="PrerequisiteInteractiveSession" xml:space="preserve">
+    <value>No se pueden ejecutar pruebas para aplicaciones de la Tienda Windows desde un servicio o un proceso no interactivo. Ejecute las pruebas unitarias desde un proceso interactivo.</value>
+  </data>
+  <data name="AppContainerActivationFromElevatedProcessError" xml:space="preserve">
+    <value>No se pueden ejecutar pruebas unitarias para aplicaciones de la Tienda Windows desde un proceso con privilegios de administrador. Ejecute las pruebas unitarias para aplicaciones de la Tienda Windows desde un proceso que no sea de administrador.</value>
+  </data>
+  <data name="RunSettingsParseError" xml:space="preserve">
+    <value>Error al cargar la configuración. Error: {0}.</value>
+  </data>
+  <data name="InvalidRunSettingsXml" xml:space="preserve">
+    <value>El archivo XML de parámetros de ejecución no contiene el nodo "RunSettings".</value>
+  </data>
+  <data name="InvalidExecutorPath" xml:space="preserve">
+    <value>No se encuentra el archivo {0}. Considere la posibilidad de reinstalar el complemento de Visual Studio.</value>
+  </data>
+  <data name="FailToStartProcess" xml:space="preserve">
+    <value>No se pudo iniciar el proceso del programa de ejecución de pruebas {0}.</value>
+  </data>
+  <data name="PrerequisiteWin8OrHigher" xml:space="preserve">
+    <value>Se requiere Windows 8 o una versión posterior para ejecutar pruebas unitarias para aplicaciones de la Tienda Windows.</value>
+  </data>
+  <data name="UnableToFindTestPlatformCoreAssembly" xml:space="preserve">
+    <value>No se encuentran las extensiones instaladas porque los ensamblados de testPlatform necesarios ({0}) no están disponibles en '{1}'</value>
+  </data>
+  <data name="SourceSeperator" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="AppContainerUtilitiesNotFound" xml:space="preserve">
+    <value>Se requiere Microsoft.VisualStudio.TestPlatform.Utilities.AppContainer.dll para ejecutar pruebas unitarias para aplicaciones de la Tienda Windows. Asegúrese de que está en el lugar correspondiente.</value>
+  </data>
+  <data name="InvalidSettingsIncorrectValue" xml:space="preserve">
+    <value>Configuración '{0}' no válida. Se especificó el valor no válido '{1}' para '{2}'.</value>
+  </data>
+  <data name="PackageInstallationFailure" xml:space="preserve">
+    <value>Error al instalar el paquete '{1}': (0x{2:X}) {3}.
+Para obtener más información, consulte el visor de eventos en Registros de aplicaciones y servicios -&gt; Microsoft -&gt; Windows -&gt; AppXDeployment-Server -&gt; Microsoft-Windows-AppXDeploymentServer/Operational.</value>
+  </data>
+</root>

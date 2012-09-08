@@ -1,0 +1,14 @@
+C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Business\bin\Debug\CapitanTioApp.Business.dll
+C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Business\bin\Debug\CapitanTioApp.Business.pdb
+C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Business\bin\Debug\CapitanTioApp.Business.pri
+C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Business\obj\Debug\CapitanTioApp.Business.dll
+C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Business\obj\Debug\CapitanTioApp.Business.pdb
+C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Business\obj\Debug\priconfig.xml
+C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Business\obj\Debug\layout.resfiles
+C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Business\obj\Debug\resources.resfiles
+C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Business\obj\Debug\pri.resfiles
+C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Business\obj\Debug\LanguageQualifiers.txt
+C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Business\obj\Debug\priconfig.xml.intermediate
+C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Business\obj\Debug\layout.resfiles.intermediate
+C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Business\obj\Debug\resources.resfiles.intermediate
+C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp.Business\obj\Debug\pri.resfiles.intermediate

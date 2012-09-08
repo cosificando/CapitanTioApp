@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-09-08T08:54:56.906</Modified>
+      <Modified>2012-09-08T09:49:45.010</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\bin\Debug\CapitanTioApp.exe">
       <PackagePath>CapitanTioApp.exe</PackagePath>
-      <Modified>2012-09-08T08:54:54.729</Modified>
+      <Modified>2012-09-08T09:49:43.877</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\bin\Debug\CapitanTioApp.pdb">
       <PackagePath>CapitanTioApp.pdb</PackagePath>
-      <Modified>2012-09-08T08:54:54.583</Modified>
+      <Modified>2012-09-08T09:49:43.795</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -82,7 +82,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-09-08T08:54:55.607</Modified>
+      <Modified>2012-09-08T09:49:44.409</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
