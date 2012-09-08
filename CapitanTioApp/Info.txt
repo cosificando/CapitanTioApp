@@ -1,0 +1,63 @@
+VIÑETA
+======
+1 viñeta = 1 tweet
+2 participantes (emisor - receptor)
+1 fondo
+tienen un tamaño fijo
+
+1 PAGINA
+========
+VARIAS VIÑETAS ( 1 columna - n filas)
+
+twitter
+=======
+Para conectarse a twitter se usa la cuenta del usuario que tiene dos campos:
+   - Usuario
+   - Password
+Se leen los campos segun las condiciones.
+
+sonidos
+=======
+POR PAGINAS
+
+Yo: me encargo de conectar a la cuenta de twitter y obtener los tweets
+
+Integrantes
+===========
+Pablo
+Paco
+Antonio
+Jorge
+David
+
+Datos de la cuenta de capitantio@outlook.com
+============================================
+Mail: capitantio@outlook.com
+Pass: ppajd1234
+Mejor amigo de la infancia: pacopepe
+
+Informacion Twitter
+===================
+OAuth settings
+
+Your application's OAuth settings. Keep the "Consumer secret" a secret. This key should never be human-readable in your application.
+Access level 	Read-only
+About the application permission model
+Consumer key 	UawknHKYPqGQswcQ90NsA
+Consumer secret 	ugd1ErkH4HxqJK7xGw9KF0jIuvX71b17NwesazfjBY
+Request token URL 	https://api.twitter.com/oauth/request_token
+Authorize URL 	https://api.twitter.com/oauth/authorize
+Access token URL 	https://api.twitter.com/oauth/access_token
+Callback URL 	None
+
+Your access token
+
+Use the access token string as your "oauth_token" and the access token secret as your "oauth_token_secret" to sign requests with your own Twitter account. Do not share your oauth_token_secret with anyone.
+Access token 	809236435-OKG8JAMgimXlbIAolfVglZHo1ChXw8n25dT4RTUx
+Access token secret 	xaU8UAbjKN7ATjQQ9qq2EsVtilTUftQQ6QFwt95R4
+Access level 	Read-only
+
+http://search.twitter.com/search.json?q=davortsan&rpp=5&include_entities=true&result_type=mixed
+https://api.twitter.com/1/statuses/home_timeline.json?include_entities=true&since_id=328525417
+https://api.twitter.com/1/statuses/home_timeline.json?oauth_consumer_key=XXX&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1334559535&oauth_token=809236435-OKG8JAMgimXlbIAolfVglZHo1ChXw8n25dT4RTUx&oauth_version=1.0
+https://api.twitter.com/1/statuses/home_timeline.json?oauth_consumer_key=9cS99b2406CUpATOegge&oauth_nonce=56e66e9f8bd28b320f86a16407f9911d&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1267523137&oauth_version=1.0&oauth_callback=http://playground.com
