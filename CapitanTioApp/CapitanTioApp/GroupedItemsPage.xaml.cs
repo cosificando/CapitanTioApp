@@ -13,6 +13,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using CapitanTioApp.DataModel;
 
 // La plantilla de elemento Página de elementos agrupados está documentada en http://go.microsoft.com/fwlink/?LinkId=234231
 
@@ -26,6 +27,11 @@ namespace CapitanTioApp
         public GroupedItemsPage()
         {
             this.InitializeComponent();
+            Common.clsJson _test = new Common.clsJson();
+
+            _test.GetJson("http://search.twitter.com/search.json?q=capitantio&rpp=25&include_entities=true&result_type=mixed");
+            clsTwitterJson _info = _test.Result;
+
         }
 
         /// <summary>
