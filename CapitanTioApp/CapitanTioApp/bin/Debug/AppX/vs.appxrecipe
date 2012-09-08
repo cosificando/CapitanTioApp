@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PABLO-PC</Machine>
+    <WindowsUser>pablo_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>A691E967FADF4692D4610EA293E9964BC045F0A300F8432FC429020147F110A7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ed10c136-9873-49a3-a512-4cd669285510_1.0.0.0_neutral__j23n9p23ar4sj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ed10c136-9873-49a3-a512-4cd669285510_j23n9p23ar4sj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ed10c136-9873-49a3-a512-4cd669285510</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=pablo_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-08T08:54:56.906</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\bin\Debug\CapitanTioApp.exe">
+      <PackagePath>CapitanTioApp.exe</PackagePath>
+      <Modified>2012-09-08T08:54:54.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\bin\Debug\CapitanTioApp.pdb">
+      <PackagePath>CapitanTioApp.pdb</PackagePath>
+      <Modified>2012-09-08T08:54:54.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T15:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T15:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T15:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T15:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2012-01-31T23:37:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2012-01-31T23:37:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2012-01-31T23:37:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-08T08:54:38.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T18:24:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2012-09-08T08:54:38.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2012-09-08T08:54:38.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2012-09-08T08:54:38.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pablo_000\Documents\GitHub\CapitanTioApp\CapitanTioApp\CapitanTioApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-09-08T08:54:55.607</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
